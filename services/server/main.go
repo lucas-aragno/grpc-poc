@@ -2,7 +2,7 @@ package main
 
 import (
 	"google.golang.org/grpc"
-	pb "pbs/helloworld"
+	pb "github.com/lucas-aragno/grpc-poc/services/pbs/helloworld"
 )
 
 const (
