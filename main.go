@@ -3,7 +3,8 @@ package main
 import (
 	"net"
 	"log"
-	"google.golang.org/grpc"
+  "google.golang.org/grpc"
+  pb "pbs/helloworld"
 )
 
 const (

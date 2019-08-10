@@ -1,8 +1,8 @@
-package main
+package server
 
 import (
 	"google.golang.org/grpc"
-	pb "github.com/lucas-aragno/grpc-poc/services/pbs/helloworld"
+	"pbs/helloworld"
 )
 
 const (
